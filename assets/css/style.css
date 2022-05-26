@@ -30,9 +30,12 @@ textarea {
   border-radius: 15px;
 }
 
+.container {
+  margin: auto;
+}
+
 .row {
   white-space: pre-wrap;
-  height: 80px;
   border-top: 1px solid white;
   margin: 1px auto;
 }
