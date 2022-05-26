@@ -18,7 +18,7 @@ A photo of the mockup is available below.
   
 ## Credits
  
-The original webpage were provided by [Trilogy Education Services](https://www.trilogyed.com/universities/) and the [School of Continuing Studies - University of Toronto](https://learn.utoronto.ca/)
+The original webpage was provided by [Trilogy Education Services](https://www.trilogyed.com/universities/) and the [School of Continuing Studies - University of Toronto](https://learn.utoronto.ca/)
  
 ## License
  
