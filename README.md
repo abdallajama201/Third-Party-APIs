@@ -1,4 +1,4 @@
-# 03 JavaScript Challenge: Password Generator
+# 05 Third Party APIs: Work Day Scheduler
  
 ## Description
  
