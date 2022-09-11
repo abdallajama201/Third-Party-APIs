@@ -1,4 +1,4 @@
-# 05 Third Party APIs: Work Day Scheduler
+# Third Party APIs: Work Day Scheduler
  
 ## Description
  
@@ -8,7 +8,7 @@ Users can store events for the working hours of the day in the browsers and have
  
 ## Usage
  
-The website is live on the open web and can be accessed at https://abdallajama201.github.io/Challenge-05-Third-Party-APIs/
+The website is live on the open web and can be accessed at https://abdallajama201.github.io/Third-Party-APIs/
 
 When a user opens the webpage the are presented with the current date and a column of blocks. Each block represents a working hour of the day in chronological order. The current hour is marked red, while previous hours are gray and the future hours are green. A user can type their appointment into any block and save it by pressing the adjacent icon in that block. If the user refreshes the screen or returns later that appointment will be saved. 
 
